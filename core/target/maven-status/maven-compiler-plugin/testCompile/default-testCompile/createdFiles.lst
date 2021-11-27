@@ -1,0 +1,5 @@
+com\moc\aem\zosite\core\models\HelloWorldModelTest.class
+com\moc\aem\zosite\core\servlets\SimpleServletTest.class
+com\moc\aem\zosite\core\filters\LoggingFilterTest.class
+com\moc\aem\zosite\core\listeners\SimpleResourceListenerTest.class
+com\moc\aem\zosite\core\schedulers\SimpleScheduledTaskTest.class

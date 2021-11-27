@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: marc.osmund.cavada
+Build-Jdk: 11.0.12
+Implementation-Title: Zo Sites Project - UI apps
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.moc.aem.zosite
+Content-Package-Roots: /apps/msm/zo_blueprint,/apps/sling,/apps/zo
+Content-Package-Description: UI apps package for Zo Sites Project
+Content-Package-Dependencies: adobe/cq60:core.wcm.components.content:2.7
+ .0,adobe/cq60:core.wcm.components.config:2.7.0
+Content-Package-Id: com.moc.aem.zosite:zoSite.ui.apps:0.0.1-SNAPSHOT
+Import-Package: com.adobe.cq.sightly;version="[3.2.0,4.0.0)",org.apache.
+ sling.api;version="[2.3.3,3.0.0)",org.apache.sling.scripting.sightly.po
+ jo;version="[1.0.1,2.0.0)"
+Content-Package-Type: application
+

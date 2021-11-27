@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Created-By: Apache Maven
+Built-By: marc.osmund.cavada
+Build-Jdk: 11.0.12
+Implementation-Title: Zo Sites Project - UI content
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.moc.aem.zosite
+Content-Package-Roots: /conf/zo,/content/dam/zo,/content/experience-frag
+ ments/zo,/content/zo
+Content-Package-Description: UI content package for Zo Sites Project
+Content-Package-Dependencies: com.moc.aem.zosite:zoSite.ui.apps:0.0.1-SN
+ APSHOT
+Content-Package-Id: com.moc.aem.zosite:zoSite.ui.content:0.0.1-SNAPSHOT
+Content-Package-Type: content
+

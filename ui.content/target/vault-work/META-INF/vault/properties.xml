@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Zo Sites Project - UI content</comment>
+<entry key="allowIndexDefinitions">false</entry>
+<entry key="acHandling">merge</entry>
+<entry key="created">2021-11-26T20:51:49.022-05:00</entry>
+<entry key="groupId">com.moc.aem.zosite</entry>
+<entry key="description">UI content package for Zo Sites Project</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="packageType">content</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="dependencies">com.moc.aem.zosite:zoSite.ui.apps:0.0.1-SNAPSHOT</entry>
+<entry key="cloudManagerTarget">none</entry>
+<entry key="createdBy">marc.osmund.cavada</entry>
+<entry key="name">zoSite.ui.content</entry>
+<entry key="artifactId">zoSite.ui.content</entry>
+<entry key="group">com.moc.aem.zosite</entry>
+</properties>

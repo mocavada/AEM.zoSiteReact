@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1637977915675
+Bundle-Category: ZO
+Bundle-Description: "Bundles for Integration Tests for Zo Sites Projec
+ t"
+Bundle-ManifestVersion: 2
+Bundle-Name: Zo Sites Project - Integration Tests Bundles
+Bundle-SymbolicName: zoSite.it.tests
+Bundle-Version: 0.0.1.20211127015155675
+Created-By: 11.0.12 (Oracle Corporation)
+Export-Package: com.moc.aem.zosite.it.tests;version="1.0";uses:="org.a
+ pache.sling.junit.annotations,org.junit,org.junit.runner"
+Import-Package: com.moc.aem.zosite.core.models;version="[1.0,2)",org.a
+ pache.sling.api.resource;version="[2.11,3)",org.apache.sling.junit.an
+ notations;version="[1.0,2)",org.apache.sling.settings;version="[1.3,2
+ )",org.junit;version="[4.8,5)",org.junit.runner;version="[4.8,5)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Sling-Test-Regexp: .*Test
+Tool: Bnd-4.2.0.201903051501
+
