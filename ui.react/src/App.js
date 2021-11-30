@@ -15,7 +15,9 @@ class App extends Component {
         <div className="container">
           <div className="row">
             <div className="col-md-8 mb-5">
-              <BusinessOverview />
+              <BusinessOverview 
+                cqPath={"/content/react-demo/en/jcr:content/root/responsivegrid/text"}
+              />
             </div>
             <div className="col-md-4 mb-5">
               <ContactUs />

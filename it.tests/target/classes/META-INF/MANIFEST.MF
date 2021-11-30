@@ -1,12 +1,12 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1638285996422
+Bnd-LastModified: 1638289551293
 Bundle-Category: ZO
 Bundle-Description: "Bundles for Integration Tests for Zo Sites Projec
  t"
 Bundle-ManifestVersion: 2
 Bundle-Name: Zo Sites Project - Integration Tests Bundles
 Bundle-SymbolicName: zoSite.it.tests
-Bundle-Version: 0.0.1.20211130152636421
+Bundle-Version: 0.0.1.20211130162551293
 Created-By: 11.0.12 (Oracle Corporation)
 Export-Package: com.moc.aem.zosite.it.tests;version="1.0";uses:="org.a
  pache.sling.junit.annotations,org.junit,org.junit.runner"

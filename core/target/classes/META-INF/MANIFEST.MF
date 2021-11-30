@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1638285904544
+Bnd-LastModified: 1638289452387
 Bundle-Category: ZO
 Bundle-Description: "Core bundle for Zo Sites Project"
 Bundle-ManifestVersion: 2
 Bundle-Name: Zo Sites Project - Core
 Bundle-SymbolicName: zoSite.core
-Bundle-Version: 0.0.1.20211130152504544
+Bundle-Version: 0.0.1.20211130162412386
 Created-By: 11.0.12 (Oracle Corporation)
 Export-Package: com.moc.aem.zosite.core.filters;version="1.0";uses:="j
  avax.servlet",com.moc.aem.zosite.core.listeners;version="1.0";uses:="

@@ -20,7 +20,7 @@ module.exports = {
           enforce: "post"
         },
         {
-          test: /\.css$/i,
+          test: /\.css$/,
           use: ['style-loader', 'css-loader'],
         }
       ]

@@ -4,7 +4,7 @@
 <comment>Zo Sites Project - UI content</comment>
 <entry key="allowIndexDefinitions">false</entry>
 <entry key="acHandling">merge</entry>
-<entry key="created">2021-11-30T10:26:15.501-05:00</entry>
+<entry key="created">2021-11-30T11:25:26.388-05:00</entry>
 <entry key="groupId">com.moc.aem.zosite</entry>
 <entry key="description">UI content package for Zo Sites Project</entry>
 <entry key="version">0.0.1-SNAPSHOT</entry>

@@ -6,7 +6,7 @@ class Navbar extends Component {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
         <div className="container">
           <a className="navbar-brand" href="#">
-            AEM SPA - React Marc
+            React Marco
           </a>
           <button
             className="navbar-toggler"
